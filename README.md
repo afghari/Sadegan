@@ -1,6 +1,6 @@
 # Sadegan Accounting System
 
-Sadegan Accounting System is a bilingual (Persian / English) accounting software developed since **2007 (1386 in the Iranian calendar)**.
+Sadegan Accounting System is a bilingual (Persian / English) accounting software developed since **2006**.
 
 ## Overview
 
